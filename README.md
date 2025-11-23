@@ -3,7 +3,7 @@
 <p align="center">
   Give your <a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a> status page a cute and modern look with custom CSS
   <br>
-  <a href="https://kuma.denisromanov.ru"><strong>Live demo »</strong></a>
+  <a href="https://kuma.denisro.com"><strong>Live demo »</strong></a>
   <br>
   <br>
   <a href="#features">Features</a>
