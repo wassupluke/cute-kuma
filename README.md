@@ -21,6 +21,13 @@
   </picture>
 </p>
 
+<p>
+  <picture>
+    <source srcset="./.github/assets/2-col/aroura-borealis.png">
+    <img alt="Aroura Borealis" src="./.github/assets/2-col/aroura-borealis.png">
+  </picture>
+</p>
+
 ## Features
 
 - Modern design inspired by top monitoring services
